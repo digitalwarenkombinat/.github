@@ -2,7 +2,7 @@
 
 The Digitalwarenkombinat (DIWAKO) is dedicated to the creative use of open cultural data and develops web applications and merchandise for and with GLAM institutions under the motto „Shaping digital worlds together“.
 
-![Intro](https://digitalwarenkombinat.de/assets/about.svg.svg)
+![Intro](https://digitalwarenkombinat.de/image.png)
 
 ## Services
 
