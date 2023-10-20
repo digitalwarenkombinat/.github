@@ -1,4 +1,4 @@
-# We are Digitalwarenkombinat 👋
+# [We are Digitalwarenkombinat 👋](https://digitalwarenkombinat.de/)
 
 The Digitalwarenkombinat (DIWAKO) is dedicated to the creative use of open cultural data and develops web applications and merchandise for and with GLAM institutions under the motto „Shaping digital worlds together“. 
 
@@ -6,7 +6,7 @@ Based in Leipzig, Germany, we are committed to the sustainable use of open cultu
 
 We love cultural heritage and therefor love to experiment with opendata and openglam objects, to modify, copy, transform and edit cultural heritage to create new things from old stuff.
 
-![Intro](https://digitalwarenkombinat.de/image.png)
+[![Screenshot of _Digitalwarenkombinat_](https://digitalwarenkombinat.de/image.png)](https://digitalwarenkombinat.de/)
 
 ## Services
 
@@ -21,6 +21,3 @@ Despite open licenses and public domain, far too many digitized museum treasures
 
 ### Consulting
 You have digitized and scanned your collections, but don't know what to do with them? We accompany and advise you and develop ideas together with you for a creative use of your cultural data.
-
-For more information about us and our projects also visit our [website](https://www.digitalwarenkombinat.de/english/).
-
